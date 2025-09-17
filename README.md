@@ -57,3 +57,16 @@ mysql到hive数据同步成功
 
 执行脚本生成的然后自己写了一个脚本
 ![](img/img_6.png)
+
+
+# offline_v1
+
+--offline_v1
+
+-- 2025-09-18
+
+--houjiaxing
+
+在cdh上添加Hue也能正常使用
+
+![](img/img_7.png)
