@@ -70,3 +70,17 @@ mysql到hive数据同步成功
 在cdh上添加Hue也能正常使用
 
 ![](img/img_7.png)
+
+
+# offline_v1
+
+--offline_v1
+
+-- 2025-09-19
+
+--houjiaxing
+
+数仓项目写完了但是ads有好多表没数据，然后从新生成数据
+下载完conda能正常用
+下载Finereport和添加驱动也能连接mysql做报表
+![](img/img_9.png)
