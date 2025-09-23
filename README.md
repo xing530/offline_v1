@@ -95,4 +95,5 @@ mysql到hive数据同步成功
 --houjiaxing
 
 今天写flink cdc一直报依赖的错误，后来修改好的但是代码的执行非常慢作了许多优化
-![img_10.png](img%2Fimg_10.png)但是还是没用，来后我重新下载了idear和maven
+![img_10.png](img%2Fimg_10.png)
+但是还是没用，来后我重新下载了idear和maven
