@@ -97,3 +97,20 @@ mysql到hive数据同步成功
 今天写flink cdc一直报依赖的错误，后来修改好的但是代码的执行非常慢作了许多优化
 ![img_10.png](img%2Fimg_10.png)
 但是还是没用，来后我重新下载了idear和maven
+
+# offline_v1
+
+--安装maven
+
+-- 2025-09-24
+
+--houjiaxing
+
+今天maven配置好了依赖能正常解析了，然后flink cdc 跑通了，后面写pyspark报错，说没有hadoop环境后来重新下载配置环境变量，但是执行还是报错没有hadoop问AI然后解决了问题
+![img_12.png](img%2Fimg_12.png)
+
+pyspark dim的创建
+![img_13.png](img%2Fimg_13.png)
+能执行但是表里没数据
+
+![img_11.png](img%2Fimg_11.png)
