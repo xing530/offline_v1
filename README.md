@@ -114,3 +114,13 @@ pyspark dim的创建
 能执行但是表里没数据
 
 ![img_11.png](img%2Fimg_11.png)
+
+
+
+# offline_pyspark
+-- 2025-09-25
+--houjiaxing
+
+pyspark dim写完
+
+![img_14.png](img%2Fimg_14.png)
