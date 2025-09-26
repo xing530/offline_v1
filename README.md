@@ -124,3 +124,10 @@ pyspark dim的创建
 pyspark dim写完
 
 ![img_14.png](img%2Fimg_14.png)
+
+
+# offline_pyspark
+-- 2025-09-26
+--houjiaxing
+
+pyspark dwd写完，hive的数据所有报表做完，pg下载wan
