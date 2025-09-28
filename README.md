@@ -130,4 +130,14 @@ pyspark dim写完
 -- 2025-09-26
 --houjiaxing
 
-pyspark dwd写完，hive的数据所有报表做完，pg下载wan
+pyspark dwd写完，hive的数据所有报表做完，pg下载完了
+
+
+
+# flink
+-- 2025-09-28
+--houjiaxing
+
+streampark 下载配置完成，然后cdh1运行内存不够和磁盘都快满了，UI界面所有服务报错，然后找到问题修改好了
+
+
